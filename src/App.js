@@ -11,11 +11,11 @@ function App() {
 
  <br />
 
- <img src="CVPIC.jpg" />
+ <img src="CVPIC.jpg" alt="myphoto"/>
 
  <br />
 
- <img src="/softdev.png" />
+ <img src="/softdev.png" alt="software development"/>
 
  <br />
 
